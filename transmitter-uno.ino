@@ -22,7 +22,7 @@ void setup() {
 
   radio.setChannel(channel);
 
-  radio.openWritingPipe(addresses); // Writing To Pipe 00002
+  radio.openWritingPipe(addresses); // Writing To Pipe 00001
 
   radio.setPALevel(RF24_PA_MIN);
 
