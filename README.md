@@ -28,6 +28,8 @@
 
 <h1 align="left">Arduino uno - Transmitter:</h1>
 <img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/109313481/234677835-4a086d79-737b-49fa-b61b-d80814d4da51.png" >
+<img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/109313481/234679083-5782e939-4570-4641-af12-dabb2a179685.jpg" >
+
 
 <h1 align="left">Arduino Mega - Receiver:</h1>
 <img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/109313481/234678202-4192c52c-d3b5-49a8-b211-41557e05d9c0.jpg" >
