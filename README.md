@@ -32,4 +32,7 @@
 
 
 <h1 align="left">Arduino Mega - Receiver:</h1>
-<img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/109313481/234678202-4192c52c-d3b5-49a8-b211-41557e05d9c0.jpg" >
+<img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/109313481/234680484-9dd6c532-3a25-45e1-a5f4-bacd9a2ffb58.jpg" >
+<img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/109313481/234680073-71a63673-68ea-4fd9-a4dc-4275f71594e4.png" >
+
+
