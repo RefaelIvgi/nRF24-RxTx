@@ -23,7 +23,7 @@ void setup() {
 
   radio.setChannel(channel);
 
-  radio.openReadingPipe(0, addresses); // Reading from Pipe 00002
+  radio.openReadingPipe(0, addresses); // Reading from Pipe 00001
 
   radio.setPALevel(RF24_PA_MIN);
 
