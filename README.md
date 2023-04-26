@@ -18,5 +18,16 @@
 <h1 align="left">Specifications:</h1>
 <img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/109313481/234675017-ee49a304-3b32-44dd-932b-b9c7653dc42b.PNG" >
 
-<h3 align="left">✰ The module can use 125 different channels which gives a possibility to have a network of 125 independently working modems in one place. Each channel can have up to 6 addresses, or each unit can communicate with up to 6 other units at the same time.d </h3>
+<h3 align="left">✰ The module can use 125 different channels which gives a possibility to have a network of 125 independently working modems in one place. Each channel can have up to 6 addresses, or each unit can communicate with up to 6 other units at the same time. </h3>
 
+<h3 align="left">✰ In order to be able to transfer the data, we will define a pipe address in the code, and enable the matching ports (See schemas). </h3>
+
+<h3 align="left">✰ The goal: Transfer "Hello" message through ARDUINO UNO, and receiving the message through ARDUINO MEGA. </h3>
+
+<h3 align="left">✰ Reminder: Don't forget to install the RF24 library, it can be found in directory management. </h3>
+
+<h1 align="left">Arduino uno - Transmitter:</h1>
+<img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/109313481/234677835-4a086d79-737b-49fa-b61b-d80814d4da51.png" >
+
+<h1 align="left">Arduino Mega - Receiver:</h1>
+<img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/109313481/234678202-4192c52c-d3b5-49a8-b211-41557e05d9c0.jpg" >
